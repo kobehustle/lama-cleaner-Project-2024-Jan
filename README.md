@@ -12,10 +12,12 @@
   - Install python
  
 ## Install lama-cleaner with conda
-- In terminal, Installing conda
+#### Installing conda
+- In terminal, with codes
   - $ wget https://repo.anaconda.com/archive/Anaconda3-2022.10-Linux-x86_64.sh
   - $ bash Anaconda3-2022.10-Linux-x86_64.sh
   - Restart the terminal
+#### Installing lama-cleaner
 - - [Installing lama-cleaner](https://www.linuxlinks.com/machine-learning-linux-lama-cleaner-self-hostable-inpainting-tool/) 
   - $ conda create --name lama-cleaner
   - $ conda activate lama-cleaner
@@ -24,3 +26,9 @@
   - $ pip install rembg
   - $ pip install realesrgan
   - $ pip install gfpgan
+
+## Start lama-cleaner
+- In terminal, with codes
+  - $ lama-cleaner --model=lama --device=cpu --port=8080
+- Using lama-cleaner
+  - Point your web browser at http://127.0.0.1:8080
