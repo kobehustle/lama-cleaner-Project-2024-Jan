@@ -19,13 +19,13 @@
   - Restart the terminal
 #### Installing lama-cleaner
 - In terminal, with codes
-  - `$ conda create --name lama-cleaner
-  - $ conda activate lama-cleaner
-  - $ pip install lama-cleaner`
+  - `$ conda create --name lama-cleaner`
+  - `$ conda activate lama-cleaner`
+  - `$ pip install lama-cleaner`
 - +(if needed)Install plugins
-  - `$ pip install rembg
-  - $ pip install realesrgan
-  - $ pip install gfpgan`
+  - `$ pip install rembg`
+  - `$ pip install realesrgan`
+  - `$ pip install gfpgan`
 
 
 Refer site: [Installing lama-cleaner](https://www.linuxlinks.com/machine-learning-linux-lama-cleaner-self-hostable-inpainting-tool/) 
