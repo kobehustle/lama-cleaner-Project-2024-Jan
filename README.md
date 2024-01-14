@@ -26,7 +26,10 @@
   - $ pip install rembg
   - $ pip install realesrgan
   - $ pip install gfpgan
+
+
 Refer site: [Installing lama-cleaner](https://www.linuxlinks.com/machine-learning-linux-lama-cleaner-self-hostable-inpainting-tool/) 
+
 
 ## Start lama-cleaner
 - In terminal, with codes
