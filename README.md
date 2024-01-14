@@ -14,7 +14,7 @@
 ## Install lama-cleaner with conda
 #### Installing conda
 - In terminal, with codes
-  - $ wget https://repo.anaconda.com/archive/Anaconda3-2022.10-Linux-x86_64.sh
+  - `$ wget https://repo.anaconda.com/archive/Anaconda3-2022.10-Linux-x86_64.sh`
   - $ bash Anaconda3-2022.10-Linux-x86_64.sh
   - Restart the terminal
 #### Installing lama-cleaner
