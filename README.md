@@ -46,7 +46,7 @@ Refer site: [Starting lama-cleaner](https://www.linuxlinks.com/machine-learning-
 
 ## Whole process in text
 - Click `Tap here to load your picture`
-  - All Supported Types: PNG image, JPEG Image
+  - Supported Types: PNG image, JPEG Image
   - Choose the size of brush
   - Brush the parts of image you want to clean and wait a second
   - You can see the picuture without objects you brushed
