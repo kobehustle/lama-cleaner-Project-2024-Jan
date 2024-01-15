@@ -1,7 +1,7 @@
 # Install and Demo Lama Clearner A-Z
 
 ## Setup
-- General
+- General (Latest virsion of VirtualBox and Ubuntu)
   - [VirtualBox Download](https://www.virtualbox.org/wiki/Downloads) VirtualBox-7.0.12-159484.exe 
   - [Ubuntu 22.04.3 LTS Download](https://ubuntu.com/download/desktop) Ubuntu 22.04.3 LTS
 - Ubuntu Setting
