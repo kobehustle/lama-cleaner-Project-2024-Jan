@@ -41,3 +41,9 @@ Refer site: [Installing lama-cleaner](https://www.linuxlinks.com/machine-learnin
  
 
 Refer site: [Starting lama-cleaner](https://www.linuxlinks.com/machine-learning-linux-lama-cleaner-self-hostable-inpainting-tool/2/) 
+
+# Using lama-cleaner
+
+## Upload a picture
+- Click `Tap here to load your picture`
+  - All Supported Types: PNG image, JPEG Image 
