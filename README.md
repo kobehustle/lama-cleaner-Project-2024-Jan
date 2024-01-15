@@ -44,9 +44,6 @@ Refer site: [Starting lama-cleaner](https://www.linuxlinks.com/machine-learning-
 
 # Using lama-cleaner
 
-## First Page.jpg
-![First page](https://github.com/kobehustle/lama-cleaner-Project-2024-Jan/blob/11eb8cb6df716d68dba266b3f274225f3d9a1f60/Imgaes/UI%20screenshot.png)
-
 ## Whole process in text
 - Click `Tap here to load your picture`
   - All Supported Types: PNG image, JPEG Image
@@ -55,6 +52,8 @@ Refer site: [Starting lama-cleaner](https://www.linuxlinks.com/machine-learning-
   - You can see the picuture without objects you brushed
  
 #### Images for explanation
+- First page
+![First page](https://github.com/kobehustle/lama-cleaner-Project-2024-Jan/blob/11eb8cb6df716d68dba266b3f274225f3d9a1f60/Imgaes/UI%20screenshot.png)
 - Change (upload) image
 ![Upload Image](https://github.com/kobehustle/lama-cleaner-Project-2024-Jan/blob/45ac86121feb963ee571a917c8a2e7ad7418ac43/Imgaes/UI%20screenshot3.png)
 - Choose Brush Size
