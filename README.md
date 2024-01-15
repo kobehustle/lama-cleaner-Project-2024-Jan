@@ -50,4 +50,4 @@ Refer site: [Starting lama-cleaner](https://www.linuxlinks.com/machine-learning-
   - Choose the size of brush
   - Brush the parts of image you want to clean and wait a second
   - You can see the picuture without objects you brushed
-![First page](Imgaes/UI screenshot.png)
+![First page]([Imgaes/UI screenshot.png](https://github.com/kobehustle/lama-cleaner-Project-2024-Jan/blob/11eb8cb6df716d68dba266b3f274225f3d9a1f60/Imgaes/UI%20screenshot.png)https://github.com/kobehustle/lama-cleaner-Project-2024-Jan/blob/11eb8cb6df716d68dba266b3f274225f3d9a1f60/Imgaes/UI%20screenshot.png)
