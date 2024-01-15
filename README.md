@@ -36,6 +36,8 @@ Refer site: [Installing lama-cleaner](https://www.linuxlinks.com/machine-learnin
   - `$ lama-cleaner --model=lama --device=cpu --port=8080`
 - Using lama-cleaner
   - Point your web browser at http://127.0.0.1:8080
+- Quit lama-cleaner
+  - `CTRL + C`
  
 
 Refer site: [Starting lama-cleaner](https://www.linuxlinks.com/machine-learning-linux-lama-cleaner-self-hostable-inpainting-tool/2/) 
