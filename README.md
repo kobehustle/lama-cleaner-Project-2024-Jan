@@ -44,12 +44,22 @@ Refer site: [Starting lama-cleaner](https://www.linuxlinks.com/machine-learning-
 
 # Using lama-cleaner
 
-## Upload a picture
+## First Page.jpg
+![First page](https://github.com/kobehustle/lama-cleaner-Project-2024-Jan/blob/11eb8cb6df716d68dba266b3f274225f3d9a1f60/Imgaes/UI%20screenshot.png)
+
+## Whole process in text
 - Click `Tap here to load your picture`
   - All Supported Types: PNG image, JPEG Image
   - Choose the size of brush
   - Brush the parts of image you want to clean and wait a second
   - You can see the picuture without objects you brushed
  
-
-![First page](https://github.com/kobehustle/lama-cleaner-Project-2024-Jan/blob/11eb8cb6df716d68dba266b3f274225f3d9a1f60/Imgaes/UI%20screenshot.png)
+#### Images for explanation
+- Change (upload) image
+![Upload Image](https://github.com/kobehustle/lama-cleaner-Project-2024-Jan/blob/45ac86121feb963ee571a917c8a2e7ad7418ac43/Imgaes/UI%20screenshot3.png)
+- Choose Brush Size
+![Choose Brush Size](https://github.com/kobehustle/lama-cleaner-Project-2024-Jan/blob/0a96ba2e1ca9a2ad7d72929a3be96471f6948049/Imgaes/UI%20screenshot6%20-%20Brush%20size.png)
+- Brush it to clean
+![Brush it to clean](https://github.com/kobehustle/lama-cleaner-Project-2024-Jan/blob/0a96ba2e1ca9a2ad7d72929a3be96471f6948049/Imgaes/UI%20screenshot7%20-%20Brush%20to%20cleaning.png)
+- Result
+![Result](https://github.com/kobehustle/lama-cleaner-Project-2024-Jan/blob/53ab21ce2d97b25ee2e16bc24add83a82d4f29ba/Imgaes/UI%20screenshot8%20-%20After%20brushing.png)
